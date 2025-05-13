@@ -26,10 +26,14 @@ A simple weather application built using **HTML**, **JavaScript**, and the **Ope
 ## 📸 Screenshots
 
 ### 🌤️ Weather App UI
-![js1.png]
+![Code Screenshot](js1.png)  
+![Code Screenshot](js2.png)
+![Code Screenshot](js3.png)
 
 ### 💻 JavaScript Code
-![Code Screenshot](./Weather using js/js1.png)
+![Code Screenshot](js4.png)
+![Code Screenshot](js5.png)
+![Code Screenshot](js6.png)
 
 
 
